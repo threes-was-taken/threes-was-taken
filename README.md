@@ -13,4 +13,4 @@
 ---
 
 [![Dries' GitHub stats](https://github-readme-stats.vercel.app/api?username=DriesVerelst)](https://github.com/anuraghazra/github-readme-stats)
-[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DriesVerelst&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DriesVerelst)](https://github.com/anuraghazra/github-readme-stats)
