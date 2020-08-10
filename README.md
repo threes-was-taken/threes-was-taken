@@ -14,3 +14,5 @@
 
 <img align="left" alt="Dries' Github Stats" src="https://github-readme-stats.vercel.app/api?username=DriesVerelst&show_icons=true&hide_border=true" />
 <img align="right" alt="Dries' Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DriesVerelst&show_icons=true&hide_border=true" />
+
+---
