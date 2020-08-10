@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning ElectronJS and VueJS 2
 - ⚡ Fun fact: I love to play games and work in my garden!
 - 🤔 I’m looking for help with finding inspiration for project ideas
-- 📫 How to reach me: You can always reach me on [Twitter][https://twitter.com/_droes_]
+- 📫 How to reach me: You can always reach me on [Twitter](https://twitter.com/_droes_)
 - 💬 Ask me anything you need help with, I love learning and am a real teamplayer
 
 <!--
