@@ -11,3 +11,6 @@
 - :goal_net: Goals for 2020: Finish the Customer Base app, Contribute to Open Source projects
 
 ---
+
+<img align="left" alt="Dries' Github Stats" src="https://github-readme-stats.vercel.app/api?username=DriesVerelst&show_icons=true&hide_border=true" />
+<img align="right" alt="Dries' Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DriesVerelst" />
