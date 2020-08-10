@@ -11,5 +11,3 @@
 - :goal_net: Goals for 2020: Finish the Customer Base app, Contribute to Open Source projects
 
 ---
-
-[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DriesVerelst)](https://github.com/anuraghazra/github-readme-stats)
