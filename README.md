@@ -1,4 +1,4 @@
-### Hi there, I'm Dries 👋
+### Hi there, I'm Dries aka Threes 👋
 
 ## I'm a Student and Developer!
 
