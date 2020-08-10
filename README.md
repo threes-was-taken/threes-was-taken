@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-## I'm Dries Verelst
-
-## I'm a Student, and Developer!
+## I'm Dries Verelst. I'm a Student and Developer!
 
 - 🔭 I’m currently working on my own Github README
 - 🌱 I’m currently learning ElectronJS and VueJS 2
