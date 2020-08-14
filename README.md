@@ -2,7 +2,7 @@
 
 ## I'm a Student and Developer!
 
-- 🔭 I’m currently working on my own Customer Base application
+- 🔭 I’m currently working on my own GIF maker named Gif-It
 - 🌱 I’m currently learning ElectronJS and VueJS 2
 - ⚡ Fun fact: I love to play games and work in my garden!
 - 🤔 I’m looking for help with finding inspiration for project ideas
