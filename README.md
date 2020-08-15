@@ -3,7 +3,7 @@
 ## I'm a Student and Developer!
 
 - 🔭 I’m currently working on my own GIF maker named Gif-It
-- :student: I’m currently learning ElectronJS and VueJS 2 and reading about/exploring Open Source
+- 👨‍🎓 I’m currently learning ElectronJS and VueJS 2 and reading about/exploring Open Source
 - ⚡ Fun fact: I love to play games and work in my garden!
 - 🤔 I’m looking for help with finding inspiration for project ideas
 - 📫 How to reach me: You can always reach me on [Twitter](https://twitter.com/_droes_) or [LinkedIn](https://www.linkedin.com/in/dries-verelst/)
