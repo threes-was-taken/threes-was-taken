@@ -14,5 +14,4 @@
     - Have a green(er) contribution board
 ---
 
-<img align="left" alt="Dries' Github Stats" src="https://github-readme-stats.vercel.app/api?username=threes-was-taken&show_icons=true&hide_border=true" />
-<img align="right" alt="Dries' Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=threes-was-taken&show_icons=true&hide_border=true" />
+<img align="left" alt="Dries' Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=threes-was-taken&show_icons=true&hide_border=true" />
