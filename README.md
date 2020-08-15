@@ -12,6 +12,3 @@
     - Contribute to my first Open Source projects and eventually become an open sourcerer 🧙
     - Develop some apps with the new technologies I'm currently learning
     - Have a green(er) contribution board
----
-
-<img align="left" alt="Dries' Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=threes-was-taken&show_icons=true&hide_border=true" />
