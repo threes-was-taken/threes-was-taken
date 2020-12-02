@@ -13,3 +13,6 @@
   - Develop some apps with the new technologies I'm currently learning
   - Have a green(er) contribution board
   - Pursue my dreams and make myself happy
+
+## Prizes
+  🏆 Hackthefuture 2020 - .NET Category 🥇 2nd place
