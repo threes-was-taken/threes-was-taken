@@ -8,11 +8,11 @@
 - 🤔 I’m always looking for feedback as I gladly learn from my mistakes
 - 📫 You can always reach me on [Twitter](https://twitter.com/_droes_) or [LinkedIn](https://www.linkedin.com/in/dries-verelst/)
 - 💬 Ask me anything you need help with, I love learning and am a real teamplayer
-- :goal_net: Goals for the remainder of 2020:
-  - Contribute to my first Open Source project and eventually become an open sourcerer 🧙
-  - Develop some apps with the new technologies I'm currently learning
-  - Have a green(er) contribution board
-  - Pursue my dreams and make myself happy
+- :goal_net: Goals for 2021:
+  - Contribute to my first Open Source project :wizard:
+  - Strengthen my ReactJS skills and general JS skills
+  - Learn Typescipt
+  - Become a better developer
 
 ## Prizes
   🏆 Hackthefuture 2020 - .NET Category 🥇 2nd place
