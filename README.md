@@ -2,10 +2,10 @@
 
 ## I'm a Student and Developer
 
-- :hammer: I’m currently working on strengthening my JavaScript and C# skills
-- 👨‍🎓  I’m currently learning about APIs, MicroServices and re-learning C#
+- :hammer: I’m currently working on strengthening my JavaScript skills
+- 👨‍🎓  I’m currently learning about APIs, creating UIs and ReactJS
 - :boom: Fun fact: I love gardening in my spare time!
-- 🤔 I’m always looking for feedback as i gladly learn from my mistakes
+- 🤔 I’m always looking for feedback as I gladly learn from my mistakes
 - 📫 You can always reach me on [Twitter](https://twitter.com/_droes_) or [LinkedIn](https://www.linkedin.com/in/dries-verelst/)
 - 💬 Ask me anything you need help with, I love learning and am a real teamplayer
 - :goal_net: Goals for the remainder of 2020:
