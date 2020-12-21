@@ -3,7 +3,7 @@
 
 <h3>Contact</h3>
 <img src="https://img.shields.io/twitter/follow/_Droes_?style=social"/>
-<img src="https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dries-verelst/"/>
+<img src="https://img.shields.io/badge/-Dries Verelst-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dries-verelst/"/>
 <img src="https://img.shields.io/github/followers/threes-was-taken?label=follow&style=social"/>
 
 ```javascript
