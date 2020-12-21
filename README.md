@@ -1,15 +1,9 @@
 <h2>Hi, Good to see you here! :relaxed:</h2>
 
 <h3>Contact</h3>
-<p>
-  <a class="twitter-follow-button"
-    href="https://twitter.com/_droes_"
-    data-size="large">Follow @_Droes_</a>
-</p>
-&nbsp;
-[LinkedIn](https://www.linkedin.com/in/dries-verelst/)
-&nbsp;
-[GitHub](https://github.com/threes-was-taken)
+[![Twitter: Droes](https://img.shields.io/twitter/follow/_Droes_?style=social)](https://twitter.com/_Droes_)
+[![Linkedin: Dries Verelst](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dries-verelst/)](https://www.linkedin.com/in/dries-verelst/)
+[![GitHub Threes](https://img.shields.io/github/followers/threes-was-taken?label=follow&style=social)](https://github.com/threes-was-taken)
 
 ```javascript
 import React from 'react'
