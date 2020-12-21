@@ -6,9 +6,7 @@
     href="https://twitter.com/_droes_"
     data-size="large">Follow @_Droes_</a>
 </p>
-&nbsp;
 [LinkedIn](https://www.linkedin.com/in/dries-verelst/)
-&nbsp;
 [GitHub](https://github.com/threes-was-taken)
 
 ```javascript
