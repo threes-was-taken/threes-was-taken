@@ -5,9 +5,15 @@
 <a href="https://twitter.com/_Droes_">
   <img src="https://img.shields.io/twitter/follow/_Droes_?style=social"/>
 </a>
+
+<br />
+
 <a href="https://www.linkedin.com/in/dries-verelst/">
   <img src="https://img.shields.io/badge/-Dries Verelst-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dries-verelst/"/>
 </a>
+
+<br />
+
 <a href="https://github.com/threes-was-taken">
   <img src="https://img.shields.io/github/followers/threes-was-taken?label=follow&style=social"/>
 </a>
