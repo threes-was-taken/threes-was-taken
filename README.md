@@ -9,7 +9,7 @@
 - 📫 You can always reach me on [Twitter](https://twitter.com/_droes_) or [LinkedIn](https://www.linkedin.com/in/dries-verelst/)
 - 💬 Ask me anything you need help with, I love learning and am a real teamplayer
 - :goal_net: Goals for 2021:
-  - Contribute to my first Open Source project :wizard:
+  - Contribute to my first Open Source project :mage:
   - Strengthen my ReactJS skills and general JS skills
   - Learn Typescipt
   - Become a better developer
