@@ -1,18 +1,78 @@
-### Hi there, I'm Dries aka Threes 👋
+<h2>Hi, Good to see you here! :relaxed:</h2>
+<img align='right' src="https://i.gifer.com/1xZ.gif" width=480 height=377.074></img>
 
-## I'm a Student and Developer
+<h3>Contact</h3>
+<p>
+  <a class="twitter-follow-button"
+    href="https://twitter.com/_droes_"
+    data-size="large">Follow @_Droes_</a>
+</p>
+&nbsp;
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/dries-verelst/)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/threes-was-taken)
 
-- :hammer: I’m currently working on strengthening my JavaScript skills
-- 👨‍🎓  I’m currently learning about APIs, creating UIs and ReactJS
-- :boom: Fun fact: I love gardening in my spare time!
-- 🤔 I’m always looking for feedback as I gladly learn from my mistakes
-- 📫 You can always reach me on [Twitter](https://twitter.com/_droes_) or [LinkedIn](https://www.linkedin.com/in/dries-verelst/)
-- 💬 Ask me anything you need help with, I love learning and am a real teamplayer
-- :goal_net: Goals for 2021:
-  - Contribute to my first Open Source project :mage:
-  - Strengthen my ReactJS skills and general JS skills
-  - Learn Typescipt
-  - Become a better developer
+```javascript
+import React from 'react'
 
-## Prizes
-  🏆 Hackthefuture 2020 - .NET Category 🥇 2nd place
+class User extends React.Component {
+  constructor(){
+    //General info
+    this.firstName = 'Dries'
+    this.lastName = 'Verelst'
+    this.nickName = 'Threes'
+    this.dateOfBirth = new Date(1998, 6, 18) // JS counts months 0-based (0 being Jan, 11 being Dec)
+    this.gender = 'Male'
+    this.country = 'Belgium'
+  }
+
+  function getSkills() {
+    return {
+      'languages':[
+      'Javascript ES6',
+      'Java',
+      'NodeJS',
+      'markup':[
+        'HTML',
+        'CSS'    
+        ]
+      'frameworks':[
+        'ReactJS'
+      ]
+      ],
+      'databases':[
+        'MSSQL Server',
+        'MongoDB'
+      ],
+      'misc':[
+        'Bash',
+        'Linux',
+        'VMWare',
+        'Git',
+        'Docker',
+      ],
+      'inDueTime':[
+        'Typescript',
+        'SASS',
+        'VueJS',
+        'Figma'
+      ]
+    }
+  }
+
+  function getTools() {
+    return ['Visual Studio Code', 'IntelliJ IDEA', 'GitKraken']
+  }
+
+  function getFutureGoals() {
+    return {
+      OpenSource:'I want to become a open sourcerer in my free time',
+      Growth:'As a developer and as a human',
+      Learn:'As an IT engineer, i-I am an eternal student',
+      Languages_Tools_Frameworks:'Learn Typescript, SASS, VueJS and Figma'
+    }
+  }
+}
+
+export default User
+```
