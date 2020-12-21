@@ -81,7 +81,7 @@ class User extends React.Component {
     return {
       OpenSource:'I want to become a open sourcerer in my free time',
       Growth:'As a developer and as a human',
-      Learn:'As an IT engineer, i-I am an eternal student',
+      Learn:'As an IT engineer, I am an eternal student',
       Languages_Tools_Frameworks:'Learn Typescript, SASS, VueJS and Figma'
     }
   }
