@@ -1,5 +1,4 @@
 <h2>Hi, Good to see you here! :relaxed:</h2>
-<img align='right' src="https://i.gifer.com/1xZ.gif" width=480 height=377.074></img>
 
 <h3>Contact</h3>
 <p>
@@ -8,9 +7,9 @@
     data-size="large">Follow @_Droes_</a>
 </p>
 &nbsp;
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/dries-verelst/)
+[LinkedIn](https://www.linkedin.com/in/dries-verelst/)
 &nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/threes-was-taken)
+[GitHub](https://github.com/threes-was-taken)
 
 ```javascript
 import React from 'react'
