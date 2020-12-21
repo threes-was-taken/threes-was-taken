@@ -2,9 +2,9 @@
 <img align='right' src="https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif" width="230">
 
 <h3>Contact</h3>
-[![Twitter: Droes](https://img.shields.io/twitter/follow/_Droes_?style=social)](https://twitter.com/_Droes_)
-[![Linkedin: Dries Verelst](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dries-verelst/)](https://www.linkedin.com/in/dries-verelst/)
-[![GitHub Threes](https://img.shields.io/github/followers/threes-was-taken?label=follow&style=social)](https://github.com/threes-was-taken)
+[Twitter: Droes](https://img.shields.io/twitter/follow/_Droes_?style=social)
+[Linkedin: DriesVerelst](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dries-verelst/)
+[GitHub Threes](https://img.shields.io/github/followers/threes-was-taken?label=follow&style=social)
 
 ```javascript
 import React from 'react'
