@@ -47,15 +47,15 @@ class User extends React.Component {
       'NodeJS',
       'markup':[
         'HTML',
-        'CSS'    
-        ]
+        'CSS',  
+        ],
       'frameworks':[
-        'ReactJS'
-      ]
+        'ReactJS',
+      ],
       ],
       'databases':[
         'MSSQL Server',
-        'MongoDB'
+        'MongoDB',
       ],
       'misc':[
         'Bash',
@@ -68,7 +68,7 @@ class User extends React.Component {
         'Typescript',
         'SASS',
         'VueJS',
-        'Figma'
+        'Figma',
       ]
     }
   }
