@@ -39,7 +39,7 @@ class User extends React.Component {
     this.country = 'Belgium'
   }
 
-  function getSkills() {
+  getSkills() {
     return {
       'languages':[
       'Javascript ES6',
@@ -67,22 +67,21 @@ class User extends React.Component {
       'inDueTime':[
         'Typescript',
         'SASS',
-        'VueJS',
         'Figma',
       ]
     }
   }
 
-  function getTools() {
-    return ['Visual Studio Code', 'IntelliJ IDEA', 'GitKraken']
+  getTools() {
+    return ['Visual Studio Code', 'GitKraken', 'CodePen.io']
   }
 
-  function getFutureGoals() {
+  getFutureGoals() {
     return {
       OpenSource:'I want to become a open sourcerer in my free time',
       Growth:'As a developer and as a human',
       Learn:'As an IT engineer, I am an eternal student',
-      Languages_Tools_Frameworks:'Learn Typescript, SASS, VueJS and Figma'
+      Languages_Tools_Frameworks:'Learn Typescript, SASS & Figma'
     }
   }
 }
