@@ -10,12 +10,8 @@
 <br />
 <br />
 <br />
+<br />
 
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=threes-was-taken" alt="threes-was-taken"></a></p>
-
-<br />
-<br />
-<br />
 
 ```javascript
 import React from 'react'
@@ -89,5 +85,3 @@ class User extends React.Component {
 
 export default User
 ```
-
-[![Visits Badge](https://badges.pufler.dev/visits/threes-was-taken/threes-was-taken)](https://github.com/threes-was-taken)
