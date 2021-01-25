@@ -1,5 +1,5 @@
 <h2>Hi, Good to see you here! :relaxed:</h2>
-<img align='right' src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/source.gif" width="230" />
+<img align='right' src="https://media.giphy.com/media/l46ChKeGsmsfE3Un6/source.gif" width="230" />
 
 <h3>Contact</h3>
 <a href="https://twitter.com/_Droes_">
