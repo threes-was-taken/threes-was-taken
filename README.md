@@ -6,11 +6,6 @@
 <a href="https://linkedin.com/in/dries-verelst" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dries-verelst" height="30" width="40" /></a>
 </p>
 <br />
-<br />
-<br />
-<br />
-
-
 ```javascript
 import React from 'react'
 
