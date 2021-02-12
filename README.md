@@ -1,7 +1,5 @@
 <h2>Hi, Good to see you here! :relaxed:</h2>
-<img align='right' src="https://media.giphy.com/media/l46ChKeGsmsfE3Un6/source.gif" width="230" />
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me!</h3>
 <p align="left">
 <a href="https://codepen.io/threes-was-taken" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="threes-was-taken" height="30" width="40" /></a>
 <a href="https://twitter.com/_droes_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="_droes_" height="30" width="40" /></a>
