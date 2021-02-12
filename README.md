@@ -49,7 +49,6 @@ class User extends React.Component {
       'inDueTime':[
         'Typescript',
         'SASS',
-        'Figma',
       ]
     }
   }
@@ -63,7 +62,7 @@ class User extends React.Component {
       OpenSource:'I want to become a open sourcerer in my free time',
       Growth:'As a developer and as a human',
       Learn:'As an IT engineer, I am an eternal student',
-      Languages_Tools_Frameworks:'Learn Typescript, Less, SASS & Figma'
+      Languages_Tools_Frameworks:'Learn Typescript & SASS'
     }
   }
 
@@ -71,7 +70,7 @@ class User extends React.Component {
     return[
       'I enjoy building LEGO',
       'I love working in the garden',
-      'I enjoy taking care of my two dogs',
+      'I take good care of my two dogs',
       'I enjoy watching animes like DBZ, One Piece, Naruto, Demon Slayer,...'
     ]
   }
