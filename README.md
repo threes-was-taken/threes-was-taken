@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Javascript, NodeJS, React**
 
-- ⚡ Fun fact **I love building LEGO**
+- ⚡ Fun fact **I love building LEGO and Creating small HTML5 games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
