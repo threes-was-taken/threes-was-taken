@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Javascript, NodeJS, React**
 
-- 📄 Get to know more about my experiences [here](https://docs.google.com/document/d/1PZaAQjt2fcLfPbc-4vx-luLoktyz0y4NiW8-0Cljqm8/edit?usp=sharing)
+- 📄 Get to know more about my experiences [here](https://docs.google.com/document/d/1PZaAQjt2fcLfPbc-4vx-luLoktyz0y4NiW8-0Cljqm8/edit?usp=sharing) (in Dutch)
 
 - ⚡ Fun fact **I love building LEGO**
 
