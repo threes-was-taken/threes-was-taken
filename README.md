@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=threes-was-taken&label=Profile%20views&color=0e75b6&style=flat" alt="threes-was-taken" /> </p>
 
-- 🔭 I’m currently working on **Log-this, a NodeJS logger package**
+- 🔭 I’m currently working on **Nothing just yet**
 
 - 🌱 I’m currently learning **Typescript and Markdown**
 
