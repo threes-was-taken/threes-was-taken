@@ -139,5 +139,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=threes-was-taken&show_icons=true&locale=en&layout=compact" alt="threes-was-taken" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=threes-was-taken&show_icons=true&locale=en" alt="threes-was-taken" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=threes-was-taken&" alt="threes-was-taken" /></p>
