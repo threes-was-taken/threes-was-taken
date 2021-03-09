@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Typescript and Markdown**
 
-- 👨‍💻 All of my projects are available at **coming soon**
+- 👨‍💻 All of my projects are available at **my Github page but I got something coming soon**
 
 - 💬 Ask me about **Javascript, NodeJS, React**
 
