@@ -12,7 +12,6 @@ I'm currently a senior student at KdG College Antwerp.
 - Javascript
 - NodeJS
 - React
-- Redux
 - HTML
 - CSS
 - MongoDB
