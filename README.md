@@ -1,8 +1,8 @@
 # 👋 Hi
 
-My name is Dries Verelst.  
-I'm 22 years old, live in Belgium and a passionate developer.
+My name is Dries Verelst and online I go by as Threes ( 3 + s ).  
 I'm currently a senior student at KdG College Antwerp.
+You can always contact me on [Twitter](https://twitter.com/threeswastaken).
 
 **I'm currently working on:**
 - No project just yet
@@ -21,3 +21,4 @@ I'm currently a senior student at KdG College Antwerp.
 - Coding
 - Gaming
 - Gardening
+- Open Source
