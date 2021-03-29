@@ -15,3 +15,9 @@ I'm currently a senior student at KdG College Antwerp.
 - HTML
 - CSS
 - MongoDB
+
+**Interested in:**
+- Tech
+- Coding
+- Gaming
+- Gardening
