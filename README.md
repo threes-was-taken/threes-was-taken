@@ -6,7 +6,7 @@ I'm currently a senior student at KdG College Antwerp.
 
 **I'm currently working on:**
 - No project just yet
-- Learning ElectronJS
+- Learning Typescript
 
 **My skills:**
 - Javascript
