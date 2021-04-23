@@ -1,6 +1,6 @@
 # 👋 Hi
 
-My name is Dries Verelst and online I go by as Threes ( 3 + s ).  
+My name is Dries Verelst.  
 I'm currently a senior student at KdG College Antwerp.  
 You can always contact me on [Twitter](https://twitter.com/threeswastaken).
 
