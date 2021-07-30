@@ -1,24 +1,11 @@
 # 👋 Hi
 
 My name is Dries Verelst.  
-I'm currently a senior student at KdG College Antwerp.  
+I have a Bachelors degree in Applied Computer Science.
+I'm interested in anything tech related.
+I also enjoy gardening in my spare time.
 You can always contact me on [Twitter](https://twitter.com/threeswastaken).
 
-**I'm currently working on:**
-- No project just yet
-- Learning Typescript
+Currently, I'm working on my personal website.
 
-**My skills:**
-- Javascript
-- NodeJS
-- React
-- HTML
-- CSS
-- MongoDB
-
-**Interested in:**
-- Tech
-- Coding
-- Gaming
-- Gardening
-- APIs
+Favorite tech stack is React, NodeJS, MongoDB.
